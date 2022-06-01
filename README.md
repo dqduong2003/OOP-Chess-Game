@@ -12,8 +12,8 @@ This is my HD Custom Program for COS20007 Object-Oriented Programming
 * Pawn promotion
 
 ## Interface
-![Screenshot](screenshots\GUIgame.jpg)
-![Screenshot](screenshots\consoleGame.jpg)
+![Screenshot](screenshots/GUIgame.jpg)
+![Screenshot](screenshots/consoleGame.jpg)
 
 ## Design
 ### Design Patterns
